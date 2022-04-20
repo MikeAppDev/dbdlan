@@ -1,0 +1,47 @@
+.team{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 200px;
+
+    &__name{
+        border: 1px solid #FFF;
+        background-color: #27353d;
+        border-radius: 5px;
+        text-align: center;
+        margin: 0;
+        width: 200px;
+        padding: 8px;
+    }
+    &__players{
+        border: 1px solid #FFF;
+        border-radius: 5px;
+        padding: 2px;
+        width: 200px;
+    }
+    &__player{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 8px 10px 8px 10px;
+        border-bottom: 1px solid #FFF;
+    }
+    &__playerLast{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 10px 0px 10px;
+    }
+}
+.teamContent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ppStreamer{
+    border-radius: 50%;
+}

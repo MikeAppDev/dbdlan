@@ -1,0 +1,50 @@
+.header {
+    // background-color: $blueDark;
+    background-image: url('/dist/assets/img/Bannersdbd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: $white;
+    width: 100%;
+    height: 160px;
+    @include media_up($medium) {
+        height: 250px;
+    }
+    &__box{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        @include media_up($medium) {
+            flex-direction: row;
+            height: 250px;
+            justify-content: space-around;
+        }
+    }
+    &__textRight{
+        font-size: 17px;
+        @include media_up($medium) {
+            font-size: 28px;
+        }
+        
+    }
+.hearderRight{
+    @include media_up($medium) {
+        display: flex;
+        flex-direction: column;
+    }
+}
+.htext{
+    text-align: center;
+}
+
+    @include media_up($medium) {
+        padding: 20px 78px;
+    }
+}
+

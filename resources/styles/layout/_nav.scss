@@ -1,0 +1,27 @@
+.nav{
+    background-color: $blueDark;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 30px;
+   
+    &__item{
+        padding: 4px;
+        &:hover{
+            color: red;
+        }
+        &__active{
+            color: red;
+        }
+    }
+
+}
+
+a{
+    color: white;
+}
+
+

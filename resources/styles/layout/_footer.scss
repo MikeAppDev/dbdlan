@@ -1,0 +1,19 @@
+.footer {
+    background-color: $blueDark;
+    padding: calculateRem(15px) 0;
+    position: relative;
+    color: white;
+    
+}
+.footerBox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+.logo{
+    width: 60px;
+}
+.logo2{
+    width: 80px;
+}

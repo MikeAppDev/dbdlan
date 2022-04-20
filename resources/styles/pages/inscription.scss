@@ -1,0 +1,45 @@
+.sub{
+    display: flex;
+    flex-direction: column;
+    &__box{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        @include media_up($medium) {
+            flex-direction: row;
+        }
+    }
+    &__text{
+        display: flex;
+        flex-direction: column;
+        @include media_up($medium) {
+            width: 50%;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px
+        }
+    }
+    &__textFull{
+        display: flex;
+        flex-direction: column;
+        @include media_up($medium) {
+            width: 100%;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px
+        }
+    }
+    &__img{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        @include media_up($medium) {
+            width: 50%;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
