@@ -3,6 +3,10 @@
     padding: calculateRem(15px) 0;
     position: relative;
     color: white;
+    @include media_up($medium) {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
     
 }
 .footerBox{
@@ -12,8 +16,21 @@
     height: 100px;
 }
 .logo{
-    width: 60px;
+    width: 50px;
+    @include media_up($medium) {
+        width: 120px;
+    }
 }
 .logo2{
-    width: 80px;
+    width: 70px;
+    @include media_up($medium) {
+        width: 140px;
+    }
+}
+
+.createText{
+    font-size: 8px;
+    @include media_up($medium) {
+        font-size: 20px !important;
+    }
 }

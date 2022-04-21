@@ -1,12 +1,15 @@
 .sub{
     display: flex;
     flex-direction: column;
+    padding-bottom: 30px;
+    align-items: center;
     &__box{
         display: flex;
         flex-direction: column;
         width: 100%;
         @include media_up($medium) {
             flex-direction: row;
+            padding-bottom: 30px;
         }
     }
     &__text{
@@ -42,4 +45,8 @@
             justify-content: center;
         }
     }
+}
+
+.subLag{
+    width: 100px;
 }

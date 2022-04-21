@@ -6,12 +6,17 @@
     flex-wrap: wrap;
     width: 100%;
     padding: 10px;
-    margin-bottom: 30px;
-   
+    // margin-bottom: 30px;
+    
+
     &__item{
         padding: 4px;
+        @include media_up($medium) {
+        padding: 20px;
+        font-size: 30px;
+        }
         &:hover{
-            color: red;
+            color: #ef895e;
         }
         &__active{
             color: red;
@@ -25,3 +30,83 @@ a{
 }
 
 
+.navbar{
+    background-color: $blueDark;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px;
+    // margin-bottom: 10px;
+    @include media_up($medium) {
+        justify-content: center;
+        }
+}
+    .nav-menu{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 60px;
+    }
+
+    .nav-branding{
+        font-size: 2rem;
+    }
+    .nav-link{
+        transition: 0.7s ease;
+        &:hover {
+            color: blueviolet;
+        }
+    }
+
+.burger{
+    display: none;
+    cursor: pointer;
+}
+    .bar{
+        display: block;
+        width: 25px;
+        height: 3px;
+        margin: 5px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        background-color: #fff;
+    }
+
+
+@media(max-width:$small){
+    .burger{
+        display: block;
+    }
+    .burger.active .bar:nth-child(2){
+        opacity: 0;
+    }
+    .burger.active .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+    }
+    .burger.active .bar:nth-child(3){
+        transform: translateY(-8px) rotate(-45deg);
+    }
+    .nav-menu{
+        position: fixed;
+        left: -100%;
+        top: 70px;
+        gap: 0;
+        flex-direction: column;
+        background-color: #262626;
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        
+    }
+    .nav-item{
+        margin:16px 0;
+    }
+    .nav-menu.active{
+        left: 0;
+    }
+}
+li{
+    text-decoration: none;
+}

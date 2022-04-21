@@ -7,12 +7,12 @@ require_once('../inc/nav.php');
 
         <div class="container">
             <div class="sub">
-                <h2 class="m2" style="text-align: center;">INSCRIPTION</h2>  
+                <h1 class="m2" style="text-align: center;">INSCRIPTION</h1>  
 
                 <p class="m2" style="text-align: center;">INFORMATIONS MISE A JOUR SUR LE DISCORD</p>
 
                 <div class="sub" style="text-align: center;">
-                    <a href="https://discord.gg/URjSmdDa8H" target="_blank"><img src="../dist/assets/img/discord.png" alt="img test" style="width: 100px;"></a>
+                    <a class="subLag" href="https://discord.gg/URjSmdDa8H" target="_blank"><img src="../dist/assets/img/discord.png" alt="img test" style="width: 100px;"></a>
                 </div>
             </div>
 		</div>
@@ -32,7 +32,7 @@ require_once('../inc/nav.php');
                     <p>C'est bon ton équipe est inscrite</p>
                 </div>
                 <div class="sub__img">
-                    <img src="../dist/assets/img/discordExemple.png" alt="img test" style="width: 200px;"></a>
+                    <img class="img" src="../dist/assets/img/discordExemple.png" alt="img test" style="width: 200px;"></a>
                 </div>
             </div>
 		</div>

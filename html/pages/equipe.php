@@ -6,21 +6,21 @@ require_once('../inc/nav.php');
 ?>
 
         <div class="container">
-            <p>Equipes</p>
+            <h1 style="text-align: center; padding-bottom: 30px">TEAMS</h1>
 		</div>
         <div class="container">
             <div class="teamContent">
                 <!-- Unity -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Unity : </p>
+                        <h4>Unity : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/skyteuur" target="_blank">Skyteuur</a>
                             <a href="https://www.twitch.tv/skyteuur" target="_blank"><img class="ppStreamer" src="../dist/assets/img/skyteuur.png" alt="img test" style="width: 50px; display: block;"></a>
                         </div>
-                            <div class="team__player"><a href="#" target="_blank">Cambouie</a>
-                            <a href="#" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/cambouie1" target="_blank">Cambouie</a>
+                            <a href="https://www.twitch.tv/cambouie1" target="_blank"><img class="ppStreamer" src="../dist/assets/img/cambouie.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                             <div class="team__player"><a href="https://www.twitch.tv/jeyzuk" target="_blank">JEYZUK</a>
                             <a href="https://www.twitch.tv/jeyzuk" target="_blank"><img class="ppStreamer" src="../dist/assets/img/JEYZUK.png" alt="img test" style="width: 50px; display: block"></a>
@@ -31,9 +31,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- Deadlight -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Deadlight : </p>
+                        <h4>Deadlight : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/Amacky" target="_blank">Amacky</a>
@@ -51,9 +51,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- Black & White -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Black & White : </p>
+                        <h4>Black & White : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/Katsuky" target="_blank">Katsuky</a>
@@ -65,15 +65,15 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/PinoTyR" target="_blank">Pino TyR</a>
                             <a href="https://www.twitch.tv/PinoTyR" target="_blank"><img class="ppStreamer" src="../dist/assets/img/pino.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__playerLast"><a href="#" target="_blank">KeyZoo</a>
-                            <a href="#" target="_blank"><img class="ppStreamer" src="../dist/assets/img/pino.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/keyzoolbv?sr=a" target="_blank">KeyZoo</a>
+                            <a href="https://www.twitch.tv/keyzoolbv?sr=a" target="_blank"><img class="ppStreamer" src="../dist/assets/img/keyzoolbv.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                     </div>
                 </div>
                 <!-- Survivors -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Survivors : </p>
+                        <h4>Survivors : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/sunsup_" target="_blank">Sunsup</a>
@@ -85,15 +85,15 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/Elexiana_" target="_blank">Elexiana_</a>
                             <a href="https://www.twitch.tv/Elexiana_" target="_blank"><img class="ppStreamer" src="../dist/assets/img/Elexiana_.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__playerLast"><a href="#" target="_blank">Peusta</a>
-                            <a href="#" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/peusta" target="_blank">Peusta</a>
+                            <a href="https://www.twitch.tv/peusta" target="_blank"><img class="ppStreamer" src="../dist/assets/img/peusta.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                     </div>
                 </div>
                 <!-- Les Roublards -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Les Roublards : </p>
+                        <h4>Les Roublards : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/Chitai" target="_blank">Chitai</a>
@@ -111,9 +111,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- D.K.D -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>D.K.D : </p>
+                        <h4>D.K.D : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/dubtroubledbd" target="_blank">DubTroubleDBD</a>
@@ -131,9 +131,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- DISSIDIA -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>DISSIDIA : </p>
+                        <h4>DISSIDIA : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/symekow_" target="_blank">Symekow_</a>
@@ -151,9 +151,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- Osiris -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Osiris : </p>
+                        <h4>Osiris : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/xeyesdbd" target="_blank">Xeyesdbd</a>
@@ -171,9 +171,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- Guélaléhir -->
-                <div class="team">
+                <div class="team img">
                     <div class="team__name">
-                        <p>Osiris : </p>
+                        <h4>Guélaléhir : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/BartGeo" target="_blank">BartGeo</a>
@@ -182,8 +182,8 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/Karlito" target="_blank">Karlito</a>
                             <a href="https://www.twitch.tv/Karlito" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__player"><a href="https://www.twitch.tv/NOXDBD" target="_blank">NOXDBD</a>
-                            <a href="https://www.twitch.tv/NOXDBD" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/noxdbd44" target="_blank">NOXDBD</a>
+                            <a href="https://www.twitch.tv/noxdbd44" target="_blank"><img class="ppStreamer" src="../dist/assets/img/noxdbd.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                             <div class="team__playerLast"><a href="https://www.twitch.tv/Visio" target="_blank">Visio</a>
                             <a href="https://www.twitch.tv/Visio" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
@@ -191,9 +191,9 @@ require_once('../inc/nav.php');
                     </div>
                 </div>
                 <!-- IPMX -->
-                <div class="team">
+                <div class="team  img">
                     <div class="team__name">
-                        <p>IPMX : </p>
+                        <h4>IPMX : </h4>
                     </div>
                         <div class="team__players">
                             <div class="team__player"><a href="https://www.twitch.tv/warzox_abdel" target="_blank">Warzox</a>
