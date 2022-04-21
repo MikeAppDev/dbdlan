@@ -12,8 +12,8 @@
     &__item{
         padding: 4px;
         @include media_up($medium) {
-        padding: 20px;
-        font-size: 30px;
+        padding: 2px;
+        font-size: 20px;
         }
         &:hover{
             color: #ef895e;
@@ -27,6 +27,9 @@
 
 a{
     color: white;
+}
+a:active{
+    color: blue;
 }
 
 
@@ -47,7 +50,7 @@ a{
         display: flex;
         justify-content: space-between;
         align-items: center;
-        gap: 60px;
+        gap: 40px;
     }
 
     .nav-branding{
@@ -102,11 +105,9 @@ a{
     }
     .nav-item{
         margin:16px 0;
+        
     }
     .nav-menu.active{
         left: 0;
     }
-}
-li{
-    text-decoration: none;
 }
