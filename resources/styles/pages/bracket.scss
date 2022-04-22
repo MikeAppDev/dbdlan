@@ -1,0 +1,83 @@
+.bracket{
+    display: flex;
+    justify-content: center;
+    color: azure;
+        @include media_up($small) {
+            width: 1000px;
+            justify-content: center;
+            &__quart{
+                width: 120px;
+            }
+            &__result{
+                width: 60px;
+            }
+        }
+
+    &__link{
+        display: none;
+        @include media_up($small) {
+            display: block;
+            padding-top: 90px;
+            padding-bottom: 45px;
+        }
+    }
+    &__link2{
+        display: none;
+        @include media_up($small) {
+            display: block;
+            padding-top: 162px;
+        }
+
+    }
+    &__fight{
+        border: 1px solid white;
+        margin: 10px 2px 0 2px;
+        padding: 5px;
+        @include media_up($small) {
+            border: 1px solid white;
+            padding: 10px;
+            margin: 40px 0 0 0;
+        }
+        
+    }
+    &__team{
+        border: 1px solid rgb(209, 149, 149);
+        padding: 2px;
+        text-align: center;
+        @include media_up($small) {
+            border: 1px solid rgb(209, 149, 149);
+            padding: 10px;
+        }
+    }
+
+    &__demi{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        @include media_up($small) {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            &__result{
+                width: 60px;
+            }
+        }
+
+    }
+    &__final{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        @include media_up($small) {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            &__result{
+                width: 60px;
+            }
+        }
+
+    }
+}

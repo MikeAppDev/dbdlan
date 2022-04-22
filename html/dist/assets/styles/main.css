@@ -368,7 +368,10 @@ button {
   background-color: transparent;
   cursor: pointer; }
 
-a, li {
+a {
+  text-decoration: none; }
+
+li {
   color: #262626;
   font-weight: 900;
   text-decoration: none; }
@@ -673,6 +676,10 @@ a:active {
   .nav-menu.active {
     left: 0; } }
 
+@media only screen and (min-width: 768px) {
+  li {
+    color: #141E30; } }
+
 /* Components */
 /* Pages */
 .index {
@@ -916,6 +923,73 @@ a:active {
 
 .ppStreamer {
   border-radius: 50%; }
+
+.bracket {
+  display: flex;
+  justify-content: center;
+  color: azure; }
+  @media only screen and (min-width: 640px) {
+    .bracket {
+      width: 1000px;
+      justify-content: center; }
+      .bracket__quart {
+        width: 120px; }
+      .bracket__result {
+        width: 60px; } }
+  .bracket__link {
+    display: none; }
+    @media only screen and (min-width: 640px) {
+      .bracket__link {
+        display: block;
+        padding-top: 90px;
+        padding-bottom: 45px; } }
+  .bracket__link2 {
+    display: none; }
+    @media only screen and (min-width: 640px) {
+      .bracket__link2 {
+        display: block;
+        padding-top: 162px; } }
+  .bracket__fight {
+    border: 1px solid white;
+    margin: 10px 2px 0 2px;
+    padding: 5px; }
+    @media only screen and (min-width: 640px) {
+      .bracket__fight {
+        border: 1px solid white;
+        padding: 10px;
+        margin: 40px 0 0 0; } }
+  .bracket__team {
+    border: 1px solid #d19595;
+    padding: 2px;
+    text-align: center; }
+    @media only screen and (min-width: 640px) {
+      .bracket__team {
+        border: 1px solid #d19595;
+        padding: 10px; } }
+  .bracket__demi {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; }
+    @media only screen and (min-width: 640px) {
+      .bracket__demi {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center; }
+        .bracket__demi__result {
+          width: 60px; } }
+  .bracket__final {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; }
+    @media only screen and (min-width: 640px) {
+      .bracket__final {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; }
+        .bracket__final__result {
+          width: 60px; } }
 
 .sub {
   display: flex;

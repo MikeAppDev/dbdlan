@@ -14,7 +14,10 @@ button {
     cursor: pointer;
 }
 
-a, li {
+a{
+    text-decoration: none;
+}
+li {
     color: #262626;
     font-weight: 900;
     text-decoration: none;
@@ -23,6 +26,7 @@ a, li {
 ul {
     padding: 0 0 0 calculateRem(17px);
 }
+
 p{
     margin: 4px 0px 4px 0px;
 }

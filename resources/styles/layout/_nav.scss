@@ -111,3 +111,9 @@ a:active{
         left: 0;
     }
 }
+
+li{
+    @include media_up($medium) {
+        color: #141E30;
+    }
+}

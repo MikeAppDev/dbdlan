@@ -56,8 +56,8 @@ require_once('../inc/nav.php');
                         <h4>Black & White : </h4>
                     </div>
                         <div class="team__players">
-                            <div class="team__player"><a href="https://www.twitch.tv/Katsuky" target="_blank">Katsuky</a>
-                            <a href="https://www.twitch.tv/Katsuky" target="_blank"><img class="ppStreamer" src="../dist/assets/img/Katsuky.png" alt="img test" style="width: 50px; display: block;"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/katsuky_" target="_blank">Katsuky</a>
+                            <a href="https://www.twitch.tv/katsuky_" target="_blank"><img class="ppStreamer" src="../dist/assets/img/Katsuky.png" alt="img test" style="width: 50px; display: block;"></a>
                         </div>
                             <div class="team__player"><a href="https://www.twitch.tv/Marinacrow" target="_blank">Marina Crow</a>
                             <a href="https://www.twitch.tv/Marinacrow" target="_blank"><img class="ppStreamer" src="../dist/assets/img/MarinaCrow.png" alt="img test" style="width: 50px; display: block"></a>
@@ -199,11 +199,11 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/warzox_abdel" target="_blank">Warzox</a>
                             <a href="https://www.twitch.tv/warzox_abdel" target="_blank"><img class="ppStreamer" src="../dist/assets/img/warzox.png" alt="img test" style="width: 50px; display: block;"></a>
                         </div>
-                            <div class="team__player"><a href="https://www.twitch.tv/Karlito" target="_blank"></a>
-                            <a href="https://www.twitch.tv" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/kanekilebarman" target="_blank">Kanekilebarman</a>
+                            <a href="https://www.twitch.tv/kanekilebarman" target="_blank"><img class="ppStreamer" src="../dist/assets/img/kanekilebarman.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__player"><a href="https://www.twitch.tv/NOXDBD" target="_blank"></a>
-                            <a href="https://www.twitch.tv" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/canardboiteu66" target="_blank">canardboiteu66</a>
+                            <a href="https://www.twitch.tv/canardboiteu66" target="_blank"><img class="ppStreamer" src="../dist/assets/img/canardboiteu66.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                             <div class="team__playerLast"><a href="https://www.twitch.tv/Visio" target="_blank"></a>
                             <a href="https://www.twitch.tv" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>

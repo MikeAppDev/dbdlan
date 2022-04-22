@@ -21,15 +21,13 @@ require_once('../inc/nav.php');
                 <div class="sub__text">
                     <h3 class="m2">Participer en tant qu'équipe 👨‍👨‍👧‍👧 </h3>
                     
-                    <p>Il y a au total 20 équipes de 4 joueurs à la DBDL</p>
+                    <p class="m2">Il y a au total 20 équipes de 4 joueurs pour la Dead By Day Lan</p>
                 
-                    <p>Pour inscrire une nouvelle équipe, il faut acheter un slot sur notre site internet pour 4 places participants et régler directement 120€. (s'il en reste)</p>
+                    <p class="m2" style="text-align: center">Pour inscrire une nouvelle équipe, il faut acheter un slot de 4 participants et faire le réglement. 30€ par personne soit 120€ au total. (s'il reste des places)</p>
 
-                    <p>Les places sont disponibles à cette adresse : <a href="https://espot.fr/product/entree-equipe-dead-by-day-lan">Entrée Equipe DBD LAN</a></p>
+                    <p class="m2" style="text-align: center">Les places sont disponibles à cette adresse (vous trouverez plus d'information sur le Discord officiel) : <a href="https://espot.fr/product/entree-equipe-dead-by-day-lan">Entrée Equipe DBD LAN</a></p>
 
-                    <p>Détail sur le Discord</p>
-
-                    <p>C'est bon ton équipe est inscrite</p>
+                    
                 </div>
                 <div class="sub__img">
                     <img class="img" src="../dist/assets/img/discordExemple.png" alt="img test" style="width: 200px;"></a>
