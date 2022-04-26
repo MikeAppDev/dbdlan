@@ -4,7 +4,169 @@ require_once('../inc/header.php');
 require_once('../inc/nav.php');
 
 ?>
+        <!-- Groupe -->
+        <h2 class="groupe" style="font-size:45px; margin-top: 20px;">Groupe</h2>
+        <div class="container" style="display: flex; justify-content: center; flex-wrap: wrap;">
+            <div class="groupe">
+                <table summary="">
+                    <caption>Groupe A</caption>
 
+                    <tr>
+                        <th></th>
+                        <th>Titre colonne 2</th>
+                        <th>Titre colonne 3</th>
+                    </tr>
+                    <tr>
+                        <td>Team 1</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Team 2</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Team 3</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Team 4</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="groupe">
+                <table summary="">
+                    <caption>Groupe B</caption>
+
+                    <tr>
+                        <th></th>
+                        <th>Titre colonne 2</th>
+                        <th>Titre colonne 3</th>
+                    </tr>
+                    <tr>
+                        <td>cellule A1</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A2</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A3</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A4</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="groupe">
+                <table summary="">
+                    <caption>Groupe C</caption>
+
+                    <tr>
+                        <th></th>
+                        <th>Titre colonne 2</th>
+                        <th>Titre colonne 3</th>
+                    </tr>
+                    <tr>
+                        <td>cellule A1</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A2</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A3</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A5</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="groupe">
+                <table summary="">
+                    <caption>Groupe D</caption>
+
+                    <tr>
+                        <th></th>
+                        <th>Titre colonne 2</th>
+                        <th>Titre colonne 3</th>
+                    </tr>
+                    <tr>
+                        <td>cellule A1</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A2</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A3</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A5</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="groupe">
+                <table summary="">
+                    <caption>Groupe E</caption>
+
+                    <tr>
+                        <th></th>
+                        <th>Titre colonne 2</th>
+                        <th>Titre colonne 3</th>
+                    </tr>
+                    <tr>
+                        <td>cellule A1</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A2</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A3</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>cellule A5</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        
+        <!-- Bracket Final -->
+
+        <h2 class="groupe" style="font-size:45px; margin-top: 30px;">Tree</h2>
         <div class="container" style="display: flex; justify-content: center;">
             <div class="bracket">
             <div class="bracket__quart">

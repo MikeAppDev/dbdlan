@@ -81,3 +81,25 @@
 
     }
 }
+.groupe{
+    display: flex;
+    justify-content: center;
+    color: azure;
+    margin: 2px 5px 2px 5px;
+}
+
+table {
+    border: medium solid #97baf7;
+    border-collapse: collapse;
+    width: 300px;
+    text-align: center;
+    }
+
+td, th {
+    border: thin solid #0086B0;
+    width: 20%;
+    padding: 3px;
+    }
+caption{
+    padding: 8px;
+}
