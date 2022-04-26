@@ -105,8 +105,8 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/Jelly1004" target="_blank">Jelly1004</a>
                             <a href="https://www.twitch.tv/Jelly1004" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__playerLast"><a href="#" target="_blank"></a>
-                            <a href="#" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/ljayyyyyyyyy" target="_blank">ljayyyyyyyyy</a>
+                            <a href="https://www.twitch.tv/ljayyyyyyyyy" target="_blank"><img class="ppStreamer" src="../dist/assets/img/ljayyyyyyyyy.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                     </div>
                 </div>
@@ -136,8 +136,8 @@ require_once('../inc/nav.php');
                         <h4>DISSIDIA : </h4>
                     </div>
                         <div class="team__players">
-                            <div class="team__player"><a href="https://www.twitch.tv/symekow_" target="_blank">Symekow_</a>
-                            <a href="https://www.twitch.tv/symekow_" target="_blank"><img class="ppStreamer" src="../dist/assets/img/symekow_.png" alt="img test" style="width: 50px; display: block;"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/twinqiz" target="_blank">twinqiz</a>
+                            <a href="https://www.twitch.tv/twinqiz" target="_blank"><img class="ppStreamer" src="../dist/assets/img/twinqiz.png" alt="img test" style="width: 50px; display: block;"></a>
                         </div>
                             <div class="team__player"><a href="https://www.twitch.tv/Enepix" target="_blank">Enepix</a>
                             <a href="https://www.twitch.tv/Enepix" target="_blank"><img class="ppStreamer" src="../dist/assets/img/Enepix.png" alt="img test" style="width: 50px; display: block"></a>
