@@ -752,6 +752,12 @@ a:active {
 .img {
   box-shadow: 5px 5px 10px black; }
 
+.green {
+  color: #44cf62; }
+
+.red {
+  color: #ff4655; }
+
 .pos {
   margin: 8px 0px 8px 0px; }
 

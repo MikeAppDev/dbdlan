@@ -9,6 +9,7 @@ require_once('../inc/nav.php');
             <h1 style="text-align: center; margin-bottom: 20px;">Règlement</h1>
             <div>
                 <p style="text-align: center"> 🚧 Règles créées par <a href="https://www.twitch.tv/sawpalin?lang=fr"> <span class="violet">Sawpalin</span></a> et <a href="https://www.twitch.tv/ChiTai"><span class="violet">ChiTaï</span></a> pour rendre la compétition la plus fun et équitable possible ! 💞 </p>
+                <p>ATTENTION REGLEMENT REFERENT SUR DISCORD</p>
             </div>
             
 		</div>
@@ -77,17 +78,17 @@ require_once('../inc/nav.php');
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Survivants / 24</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">+ 2 points a chaque générateur réparer</p>
-                    <p style="text-align: center">+ 3 points si le survivant s'échappe sans jamais avoir été accroché</p>
-                    <p style="text-align: center">+ 2 points si le survivant s'échappe en ayant été accroché une fois</p>
-                    <p style="text-align: center">+ 1 points si le survivant s'échappe en ayant été accroché 2 fois</p>
-                    <p style="text-align: center">+ 2 points si toute l'équipe s'échappe</p>
+                    <p class="green" style="text-align: center">+ 2 points a chaque générateur réparer</p>
+                    <p class="green" style="text-align: center">+ 3 points si le survivant s'échappe sans jamais avoir été accroché</p>
+                    <p class="green" style="text-align: center">+ 2 points si le survivant s'échappe en ayant été accroché une fois</p>
+                    <p class="green" style="text-align: center">+ 1 points si le survivant s'échappe en ayant été accroché 2 fois</p>
+                    <p class="green" style="text-align: center">+ 2 points si toute l'équipe s'échappe</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Tueurs / 24</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">+ 3 points pour premier accrochage sur un survivant</p>
-                    <p style="text-align: center">+ 2 points pour deuxieme accrochage sur un survivant</p>
-                    <p style="text-align: center">+ 1 points pour une mort sur un survivant</p>
+                    <p class="green" style="text-align: center">+ 3 points pour premier accrochage sur un survivant</p>
+                    <p class="green" style="text-align: center">+ 2 points pour deuxieme accrochage sur un survivant</p>
+                    <p class="green" style="text-align: center">+ 1 points pour une mort sur un survivant</p>
                 </p>
             </div>
 		</div>
@@ -111,10 +112,10 @@ require_once('../inc/nav.php');
             <h2 style="text-align: center; margin-top: 20px; margin-bottom: 20px;">Personnages</h2>
             <div>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">+ Tous les surivants sont autorisés</p>
-                    <p style="text-align: center">- L'infirmière, le fléau et les jumeaux sont bannis de la compétition</p>
-                    <p style="text-align: center">- Les survivants ne peuvent pas porter les mêmes skins</p>
-                    <p style="text-align: center">- Les survivants peuvent avoir 2 mêmes personnages par partie maximum</p>
+                    <p class="green" style="text-align: center">+ Tous les surivants sont autorisés</p>
+                    <p class="red" style="text-align: center">- L'infirmière, le fléau et les jumeaux sont bannis de la compétition</p>
+                    <p class="red" style="text-align: center">- Les survivants ne peuvent pas porter les mêmes skins</p>
+                    <p class="red" style="text-align: center">- Les survivants peuvent avoir 2 mêmes personnages par partie maximum</p>
                     
                 </p>
             
@@ -123,7 +124,7 @@ require_once('../inc/nav.php');
             <h2 style="text-align: center; margin-top: 20px; margin-bottom: 20px;">Offrandes 🀄 </h2>
             <div>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Les offrandes ne sont pas autorisées pendant le tournoi</p>
+                    <p class="red" style="text-align: center">- Les offrandes ne sont pas autorisées pendant le tournoi</p>
                 </p>
             
 		</div>
@@ -133,53 +134,53 @@ require_once('../inc/nav.php');
             <p style="text-align: center; font-size: 20px;">SURVIVANTS :</p>
             <p style="text-align: center; font-size: 20px;">Seul</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Bénédiction : Cercle de Soins</p>
-                    <p style="text-align: center">- Bénédiction : Marche de l'Ombre</p>
-                    <p style="text-align: center">- Bénédiction : Exponentiel</p>
-                    <p style="text-align: center">- Bénédiction : Théorie Ténébreuse</p>
-                    <p style="text-align: center">- Bras de Fer</p>
-                    <p style="text-align: center">- Fais tes Preuves</p>
+                    <p class="red" style="text-align: center">- Bénédiction : Cercle de Soins</p>
+                    <p class="red" style="text-align: center">- Bénédiction : Marche de l'Ombre</p>
+                    <p class="red" style="text-align: center">- Bénédiction : Exponentiel</p>
+                    <p class="red" style="text-align: center">- Bénédiction : Théorie Ténébreuse</p>
+                    <p class="red" style="text-align: center">- Bras de Fer</p>
+                    <p class="red" style="text-align: center">- Fais tes Preuves</p>
                 </p>
             <p style="text-align: center; font-size: 20px; margin-top: 20px;">Groupé</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Volonté de Fer + Coup de Chance</p>
+                    <p class="red" style="text-align: center">- Volonté de Fer + Coup de Chance</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">TUEURS :</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Dispositif de l'Homme Mort</p>
+                    <p class="red" style="text-align: center">- Dispositif de l'Homme Mort</p>
                 </p>
 
                 <h2 style="text-align: center; margin-top: 20px; margin-bottom: 20px;">Bans des accessoires tueur</h2>
                 <p style="text-align: center; font-size: 20px;">Silhouette :</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Morceau de Pierre Tombale (Très rare)</p>
+                    <p class="red" style="text-align: center">- Morceau de Pierre Tombale (Très rare)</p>
                 </p>
                 <p style="text-align: center; font-size: 20px;  margin-top: 20px;">Harpie : </p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Chaînes Rouillées (Très rare)</p>
+                    <p class="red" style="text-align: center">- Chaînes Rouillées (Très rare)</p>
                 </p>
                 <p style="text-align: center; font-size: 20px;  margin-top: 20px;">Chasseuse : </p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Poupée Russe à Fleur (Rare)</p>
-                    <p style="text-align: center">- Ceinture d'Infanterie (Très rare)</p>
+                    <p class="red" style="text-align: center">- Poupée Russe à Fleur (Rare)</p>
+                    <p class="red" style="text-align: center">- Ceinture d'Infanterie (Très rare)</p>
                 </p>
                 <p style="text-align: center; font-size: 20px;  margin-top: 20px;">Esprit : </p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Tous les accessoires Très Rare</p>
-                    <p style="text-align: center">- Tous les accessoires Rare</p>
+                    <p class="red" style="text-align: center">- Tous les accessoires Très Rare</p>
+                    <p class="red" style="text-align: center">- Tous les accessoires Rare</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Oni : </p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Chignon Scalpé (Rare)</p>
-                    <p style="text-align: center">- Coque éventrée (Très rare)</p>
+                    <p class="red" style="text-align: center">- Chignon Scalpé (Rare)</p>
+                    <p class="red" style="text-align: center">- Coque éventrée (Très rare)</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Cénobite : </p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Câble à Empaler (Rare)</p>
+                    <p class="red" style="text-align: center">- Câble à Empaler (Rare)</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Artiste :</p>
                 <p class="pos" style="text-align: center">
-                    <p style="text-align: center">- Mains tranchées (Très rare) </p>
+                    <p class="red" style="text-align: center">- Mains tranchées (Très rare) </p>
                 </p>
 		</div>
 
