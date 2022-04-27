@@ -17,6 +17,11 @@ require_once('./inc/nav.php');
                         <a href="https://www.twitch.tv/sawpalin?lang=fr" target="_blank"><img class="img" src="dist/assets/img/sawpalin.PNG" alt="swapalin bannière de chaine twitch sur fond rouge avec le visage de sawpalin et un couteau Dead By Day Lan" style="width: 100%; display: block"></a>
                     </div>
             </div>
+            <div class="index__textFull" style="display: flex; justify-content: center; align-items: center; margin-bottom: 15px;">
+            <p style="font-size: 25px; padding-bottom: 10px;"> Les places spectateurs sont enfin disponibles ici : (Les quantitées sont limitées)</p>
+            <a href="https://espot.fr/product/entree-spectateur-dead-by-day-lan" target="_blank"><img class="img" src="dist/assets/img/entree_spectateur.PNG" alt="swapalin bannière de chaine twitch sur fond rouge avec le visage de sawpalin et un couteau Dead By Day Lan" style="width: 300px; display: block;"></a>
+            </div>
+
             <div class="index__textFull">
                 <p class="m2">
                 L’événement Dead By Day Lan aura lieu de 16h à minuit et sera majoritairement animé par la communauté elle-même, l’ambiance horreur, le bar et bien sûr le tournoi avec un show dans notre Arena.</p>
