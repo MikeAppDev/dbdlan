@@ -85,7 +85,7 @@
     display: flex;
     justify-content: center;
     color: azure;
-    margin: 2px 5px 2px 5px;
+    margin: 2px 5px 15px 5px;
 }
 
 table {
@@ -97,11 +97,16 @@ table {
 
 td, th {
     border: thin solid #0086B0;
+    border-radius: 15%;
     width: 20%;
     padding: 3px;
+    background-color: black;
     }
 caption{
     padding: 8px;
+    border: medium solid #97baf7;
+    border-radius: 50px;
+    background-color: black;
 }
 .title{
     display: flex;

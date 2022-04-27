@@ -13,8 +13,8 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Titre colonne 2</th>
-                        <th>Titre colonne 3</th>
+                        <th>Victoire</th>
+                        <th>Defaite</th>
                     </tr>
                     <tr>
                         <td>Team 1</td>
@@ -44,8 +44,8 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Titre colonne 2</th>
-                        <th>Titre colonne 3</th>
+                        <th>Victoire</th>
+                        <th>Defaite</th>
                     </tr>
                     <tr>
                         <td>cellule A1</td>
@@ -75,8 +75,8 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Titre colonne 2</th>
-                        <th>Titre colonne 3</th>
+                        <th>Victoire</th>
+                        <th>Defaite</th>
                     </tr>
                     <tr>
                         <td>cellule A1</td>
@@ -106,8 +106,8 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Titre colonne 2</th>
-                        <th>Titre colonne 3</th>
+                        <th>Victoire</th>
+                        <th>Defaite</th>
                     </tr>
                     <tr>
                         <td>cellule A1</td>
@@ -137,8 +137,8 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Titre colonne 2</th>
-                        <th>Titre colonne 3</th>
+                        <th>Victoire</th>
+                        <th>Defaite</th>
                     </tr>
                     <tr>
                         <td>cellule A1</td>
