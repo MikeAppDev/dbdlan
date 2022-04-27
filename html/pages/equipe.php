@@ -205,8 +205,68 @@ require_once('../inc/nav.php');
                             <div class="team__player"><a href="https://www.twitch.tv/canardboiteu66" target="_blank">canardboiteu66</a>
                             <a href="https://www.twitch.tv/canardboiteu66" target="_blank"><img class="ppStreamer" src="../dist/assets/img/canardboiteu66.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
-                            <div class="team__playerLast"><a href="https://www.twitch.tv/Visio" target="_blank"></a>
-                            <a href="https://www.twitch.tv" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/tikyie" target="_blank">tikyie</a>
+                            <a href="https://www.twitch.tv/tikyie" target="_blank"><img class="ppStreamer" src="../dist/assets/img/tikyie.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- The Eclipse -->
+                <div class="team  img">
+                    <div class="team__name">
+                        <h4>The Eclipse : </h4>
+                    </div>
+                        <div class="team__players">
+                            <div class="team__player"><a href="https://www.twitch.tv/astee" target="_blank">Astee</a>
+                            <a href="https://www.twitch.tv/astee" target="_blank"><img class="ppStreamer" src="../dist/assets/img/astee.png" alt="img test" style="width: 50px; display: block;"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/" target="_blank">Minn</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/" target="_blank">Noemii_e</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/" target="_blank"></a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Socquette Balayette -->
+                <div class="team  img">
+                    <div class="team__name">
+                        <h4>Socquette Balayette : </h4>
+                    </div>
+                        <div class="team__players">
+                            <div class="team__player"><a href="https://www.twitch.tv/ervithau" target="_blank">Ervithau</a>
+                            <a href="https://www.twitch.tv/ervithau" target="_blank"><img class="ppStreamer" src="../dist/assets/img/ervithau.png" alt="img test" style="width: 50px; display: block;"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/entre_deux_reves" target="_blank">Entre_deux_reves</a>
+                            <a href="https://www.twitch.tv/entre_deux_reves" target="_blank"><img class="ppStreamer" src="../dist/assets/img/entre_deux_reves.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/symekow_" target="_blank">Symekow_</a>
+                            <a href="https://www.twitch.tv/symekow_" target="_blank"><img class="ppStreamer" src="../dist/assets/img/symekow_.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/xaynecast" target="_blank">Xaynecast</a>
+                            <a href="https://www.twitch.tv/xaynecast" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- noname -->
+                <div class="team  img">
+                    <div class="team__name">
+                        <h4> </h4>
+                    </div>
+                        <div class="team__players">
+                            <div class="team__player"><a href="https://www.twitch.tv/" target="_blank">Pabetsit</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block;"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/" target="_blank">Sebster</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__player"><a href="https://www.twitch.tv/" target="_blank">Tomyleterrien</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
+                        </div>
+                            <div class="team__playerLast"><a href="https://www.twitch.tv/" target="_blank">jazzoulol98</a>
+                            <a href="https://www.twitch.tv/" target="_blank"><img class="ppStreamer" src="../dist/assets/img/unknow.png" alt="img test" style="width: 50px; display: block"></a>
                         </div>
                     </div>
                 </div>

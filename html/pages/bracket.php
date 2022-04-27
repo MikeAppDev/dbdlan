@@ -167,7 +167,15 @@ require_once('../inc/nav.php');
         <!-- Bracket Final -->
 
         <h2 class="groupe" style="font-size:45px; margin-top: 30px;">Tree</h2>
+        <div class="container" style="display: flex; justify-content: space-around;">
+            <div class="title">
+                <div><p>Quart De Finale</p></div>
+                <div><p>Demi Final</p></div>
+                <div><p>Final</p></div>
+            </div>
+        </div>
         <div class="container" style="display: flex; justify-content: center;">
+        
             <div class="bracket">
             <div class="bracket__quart">
                     <div class="bracket__fight">
