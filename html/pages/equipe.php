@@ -36,8 +36,8 @@ require_once('../inc/nav.php');
                         <h4>Deadlight : </h4>
                     </div>
                         <div class="team__players">
-                            <div class="team__player"><a href="https://www.twitch.tv/Amacky" target="_blank">Amacky</a>
-                            <a href="https://www.twitch.tv/Amacky" target="_blank"><img class="ppStreamer" src="../dist/assets/img/Amacky.png" alt="img test" style="width: 50px; display: block;"></a>
+                            <div class="team__player"><a href="https://www.twitch.tv/amacky_exe" target="_blank">Amacky</a>
+                            <a href="https://www.twitch.tv/amacky_exe.png" target="_blank"><img class="ppStreamer" src="../dist/assets/img/amacky_exe.png" alt="img test" style="width: 50px; display: block;"></a>
                         </div>
                             <div class="team__player"><a href="https://www.twitch.tv/la_bierasse" target="_blank">La_bierasse</a>
                             <a href="https://www.twitch.tv/la_bierasse" target="_blank"><img class="ppStreamer" src="../dist/assets/img/labierasse.png" alt="img test" style="width: 50px; display: block"></a>
