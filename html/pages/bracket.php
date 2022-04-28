@@ -13,28 +13,38 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Victoire</th>
-                        <th>Defaite</th>
+                        <th>Unity</th>
+                        <th>Black & White</th>
+                        <th>Soc. Bal.</th>
+                        <th>The Eclipse</th>
                     </tr>
                     <tr>
-                        <td>Team 1</td>
+                        <td>Unity</td>
+                        <td class="mid"></td>
                         <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Team 2</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Team 3</td>
                         <td></td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Team 4</td>
+                        <td>Black & White</td>
+                        <td></td>
+                        <td class="mid"></td>
                         <td></td>
                         <td></td>
+                    </tr>
+                    <tr>
+                        <td>Socquette Balayette</td>
+                        <td></td>
+                        <td></td>
+                        <td class="mid"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>The Eclipse</td>
+                        <td>20 - 4</td>
+                        <td></td>
+                        <td></td>
+                        <td class="mid"></td>
                     </tr>
                 </table>
             </div>
@@ -44,26 +54,31 @@ require_once('../inc/nav.php');
 
                     <tr>
                         <th></th>
-                        <th>Victoire</th>
-                        <th>Defaite</th>
+                        <th>Survivant</th>
+                        <th>Tueur</th>
+                        <th>Resultat</th>
                     </tr>
                     <tr>
-                        <td>cellule A1</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>cellule A2</td>
+                        <td>Unity</td>
+                        <td>22 - 6</td>
                         <td></td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>cellule A3</td>
+                        <td>Black & White</td>
+                        <td></td>
                         <td></td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>cellule A4</td>
+                        <td>Socquette Balayette</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>The Eclipse</td>
+                        <td></td>
                         <td></td>
                         <td></td>
                     </tr>
@@ -103,37 +118,6 @@ require_once('../inc/nav.php');
             <div class="groupe">
                 <table summary="">
                     <caption>Groupe D</caption>
-
-                    <tr>
-                        <th></th>
-                        <th>Victoire</th>
-                        <th>Defaite</th>
-                    </tr>
-                    <tr>
-                        <td>cellule A1</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>cellule A2</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>cellule A3</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>cellule A5</td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                </table>
-            </div>
-            <div class="groupe">
-                <table summary="">
-                    <caption>Groupe E</caption>
 
                     <tr>
                         <th></th>

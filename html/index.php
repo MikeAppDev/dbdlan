@@ -67,7 +67,7 @@ require_once('./inc/nav.php');
                         <img class="img" src="dist/assets/img/DBDLAN-12.jpg" alt="photo espot espace détente / retauration Dead By Day Lan" style="width: 100%; display: block">
                     </div>
                     <div class="index__text m2">
-                        <p>Venez participer / partager la première LAN Dead By Daylight le 13 mai 2022 a l'Esport Paris, 150 Rue De Rivoli. Plus d'informations sur le Discord !</p>
+                        <p>Venez participer / partager la première LAN Dead By Daylight le 13 mai 2022 a l'Espot Paris, 150 Rue De Rivoli. Plus d'informations sur le Discord !</p>
                         
                         <a href="https://discord.gg/URjSmdDa8H" target="_blank"><img src="../dist/assets/img/discord.png" alt="logo discord" style="width: 70px; marging-left: 20px; "></a>
 

@@ -12,7 +12,12 @@
                 width: 60px;
             }
         }
-
+    &__result{
+            flex-direction: column;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+    }
     &__link{
         display: none;
         @include media_up($small) {
@@ -78,7 +83,6 @@
                 width: 60px;
             }
         }
-
     }
 }
 .groupe{
@@ -91,14 +95,15 @@
 table {
     border: medium solid #97baf7;
     border-collapse: collapse;
-    width: 300px;
+    width: 320px;
     text-align: center;
     }
 
 td, th {
     border: thin solid #0086B0;
-    border-radius: 15%;
-    width: 20%;
+    // border-radius: 15%;
+    width: 55px;
+    height: 50px;
     padding: 3px;
     background-color: black;
     }
@@ -113,4 +118,7 @@ caption{
     justify-content: space-between;
     width: 600px;
     margin-top: 40px;
+}
+.mid{
+    background-color: #0086B0;
 }
