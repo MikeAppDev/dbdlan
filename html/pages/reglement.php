@@ -11,6 +11,9 @@ require_once('../inc/nav.php');
                 <p style="text-align: center"> 🚧 Règles créées par <a href="https://www.twitch.tv/sawpalin?lang=fr"> <span class="violet">Sawpalin</span></a> et <a href="https://www.twitch.tv/ChiTai"><span class="violet">ChiTaï</span></a> pour rendre la compétition la plus fun et équitable possible ! 💞 </p>
                 <p>ATTENTION REGLEMENT REFERENT SUR DISCORD</p>
             </div>
+            <div>
+                <a href="https://docs.google.com/document/d/1RI3qJ_AVLzAJFA9w91zDAJO2yL2v5-_nnow0fgIpOao/edit#heading=h.70x3ksgx5sxk" target="_blank"><h2 style="text-align: center; padding: 25px; color: green;"> LIEN DU REGLEMENT : DEAD BY DAY LAN Vendredi 13 mai 2022</h2></a>
+            </div>
             
 		</div>
         <div class="container">
@@ -113,7 +116,7 @@ require_once('../inc/nav.php');
             <div>
                 <p class="pos" style="text-align: center">
                     <p class="green" style="text-align: center">+ Tous les surivants sont autorisés</p>
-                    <p class="red" style="text-align: center">- L'infirmière, le fléau et les jumeaux sont bannis de la compétition</p>
+                    <p class="red" style="text-align: center">- L'infirmière, L'Esprit, le fléau et les jumeaux sont bannis de la compétition</p>
                     <p class="red" style="text-align: center">- Les survivants ne peuvent pas porter les mêmes skins</p>
                     <p class="red" style="text-align: center">- Les survivants peuvent avoir 2 mêmes personnages par partie maximum</p>
                     
@@ -138,12 +141,13 @@ require_once('../inc/nav.php');
                     <p class="red" style="text-align: center">- Bénédiction : Marche de l'Ombre</p>
                     <p class="red" style="text-align: center">- Bénédiction : Exponentiel</p>
                     <p class="red" style="text-align: center">- Bénédiction : Théorie Ténébreuse</p>
-                    <p class="red" style="text-align: center">- Bras de Fer</p>
+                    <p class="green" style="text-align: center">+ Bras de Fer</p>
                     <p class="red" style="text-align: center">- Fais tes Preuves</p>
                 </p>
             <p style="text-align: center; font-size: 20px; margin-top: 20px;">Groupé</p>
                 <p class="pos" style="text-align: center">
                     <p class="red" style="text-align: center">- Volonté de Fer + Coup de Chance</p>
+                    <p class="red" style="text-align: center">- Tenace + Fureur de l'Esprit</p>
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">TUEURS :</p>
                 <p class="pos" style="text-align: center">
@@ -161,8 +165,9 @@ require_once('../inc/nav.php');
                 </p>
                 <p style="text-align: center; font-size: 20px;  margin-top: 20px;">Chasseuse : </p>
                 <p class="pos" style="text-align: center">
-                    <p class="red" style="text-align: center">- Poupée Russe à Fleur (Rare)</p>
+                    <p class="green" style="text-align: center">+ Poupée Russe à Fleur (Rare)</p>
                     <p class="red" style="text-align: center">- Ceinture d'Infanterie (Très rare)</p>
+                    <p class="red" style="text-align: center">- Concoction Vénéneuse</p>
                 </p>
                 <p style="text-align: center; font-size: 20px;  margin-top: 20px;">Esprit : </p>
                 <p class="pos" style="text-align: center">
@@ -180,7 +185,7 @@ require_once('../inc/nav.php');
                 </p>
                 <p style="text-align: center; font-size: 20px; margin-top: 20px;">Artiste :</p>
                 <p class="pos" style="text-align: center">
-                    <p class="red" style="text-align: center">- Mains tranchées (Très rare) </p>
+                    <p class="green" style="text-align: center">+ Mains tranchées (Très rare) </p>
                 </p>
 		</div>
 

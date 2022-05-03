@@ -1,7 +1,11 @@
 .bracket{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     color: azure;
+    padding-top: 50px;
+    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
         @include media_up($small) {
             width: 1000px;
             justify-content: center;
@@ -9,7 +13,7 @@
                 width: 120px;
             }
             &__result{
-                width: 60px;
+                // width: 60px;
             }
         }
     &__result{
@@ -27,31 +31,65 @@
         }
     }
     &__link2{
-        display: none;
+        padding-top: 50px;
         @include media_up($small) {
-            display: block;
-            padding-top: 162px;
+            
+            
         }
 
     }
     &__fight{
-        border: 1px solid white;
-        margin: 10px 2px 0 2px;
-        padding: 5px;
+        // border: 1px solid white;
+        margin-bottom: 80px;
         @include media_up($small) {
-            border: 1px solid white;
-            padding: 10px;
-            margin: 40px 0 0 0;
+            // border: 1px solid white;
         }
         
     }
     &__team{
-        border: 1px solid rgb(209, 149, 149);
+        border: 2px solid #0b224a;
+        border-radius: 5px;
         padding: 2px;
         text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 150px;
+        height: 50px;
+        background-color: black;
         @include media_up($small) {
-            border: 1px solid rgb(209, 149, 149);
+            border: 2px solid #0b224a;
+            border-radius: 5px;
             padding: 10px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 150px;
+            height: 50px;
+        }
+    }
+    &__teamR{
+        border: 2px solid #0b224a;
+        border-radius: 5px;
+        padding: 2px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        width: 50px;
+        background-color: black;
+        @include media_up($small) {
+            border: 2px solid #0b224a;
+            border-radius: 5px;
+            padding: 10px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50px;
+            width: 50px;
         }
     }
 
@@ -63,9 +101,9 @@
             display: flex;
             flex-direction: column;
             justify-content: space-around;
-            align-items: center;
+            // 
             &__result{
-                width: 60px;
+                // width: 60px;
             }
         }
 
@@ -80,27 +118,33 @@
             justify-content: center;
             align-items: center;
             &__result{
-                width: 60px;
+                // width: 60px;
             }
         }
+    }
+    &__bloc{
+        display: flex;
     }
 }
 .groupe{
     display: flex;
     justify-content: center;
     color: azure;
-    margin: 2px 5px 15px 5px;
+    margin: 2px 5px 20px 5px;
+    @include media_up($small) {
+        margin: 2px 20px 20px 5px;
+    }
 }
 
 table {
-    border: medium solid #97baf7;
+    border: medium solid #0b224a;
     border-collapse: collapse;
     width: 320px;
     text-align: center;
     }
 
 td, th {
-    border: thin solid #0086B0;
+    border: thin solid #0b224a;
     // border-radius: 15%;
     width: 55px;
     height: 50px;
@@ -109,16 +153,46 @@ td, th {
     }
 caption{
     padding: 8px;
-    border: medium solid #97baf7;
+    border: medium solid #0b224a;
     border-radius: 50px;
     background-color: black;
+    margin-bottom: 10px;
 }
 .title{
     display: flex;
-    justify-content: space-between;
-    width: 600px;
+    justify-content: space-around;
+    width: 300px;
     margin-top: 40px;
+    font-size: 30px;
+    @include media_up($small) {
+        display: flex;
+        justify-content: space-around;
+        width: 635px;
+        margin-top: 40px;
+        font-size: 30px;
+        margin-right: 45px;
+
+    }
 }
 .mid{
     background-color: #0086B0;
+}
+
+.separation{
+    height: 180px;
+    width: 70px;
+    @include media_up($small) {
+        height: 180px;
+        width: 70px;
+    }
+}
+
+.surv{
+    color: darkgoldenrod;
+}
+.killer{
+    color: brown;
+}
+.qual{
+    background-color: green;
 }

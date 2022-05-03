@@ -18,7 +18,7 @@ require_once('./inc/nav.php');
                     </div>
             </div>
             <div class="index__textFull" style="display: flex; justify-content: center; align-items: center; margin-bottom: 15px;">
-            <p style="font-size: 25px; padding-bottom: 10px;"> Les places spectateurs sont enfin disponibles ici : (Les quantitées sont limitées)</p>
+            <p style="font-size: 25px; padding-bottom: 10px;">Sold-out pour Spectateur et Equipe :) RDV le 13 mai 2022 !</p>
             <a href="https://espot.fr/product/entree-spectateur-dead-by-day-lan" target="_blank"><img class="img" src="dist/assets/img/entree_spectateur.PNG" alt="swapalin bannière de chaine twitch sur fond rouge avec le visage de sawpalin et un couteau Dead By Day Lan" style="width: 300px; display: block;"></a>
             </div>
 
