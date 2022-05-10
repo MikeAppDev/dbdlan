@@ -201,8 +201,8 @@ require_once('../inc/nav.php');
         <!-- <h2 class="groupe" style="font-size:45px; margin-top: 30px;">Tree</h2> -->
         <div class="container" style="display: flex; justify-content: space-around;">
             <div class="title">
-                <div><h2>Demi Final</h2></div>
-                <div><h2>Final</h2></div>
+                <div><h2>Demi Finale</h2></div>
+                <div><h2>Finale</h2></div>
             </div>
         </div>
         <div class="container" style="display: flex; justify-content: center;">
